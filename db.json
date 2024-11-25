@@ -12,10 +12,7 @@
             "doors":2,
             "transmission": "Automatic",
             "drive": "Front wheel drive",
-            "weight": 1750,
-            "images": [
-
-            ]
+            "weight": 1750
         },
         {
             "id":2,
@@ -29,10 +26,7 @@
             "doors":2,
             "transmission": "Automatic",
             "drive": "Front wheel drive",
-            "weight": 1750,
-            "images": [
-
-            ]
+            "weight": 1750
         }
     ],
   "profile": {
