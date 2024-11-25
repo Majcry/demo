@@ -1,38 +1,14 @@
 {
-    "cars": [
-        {
-            "id":1,
-            "year":2011,
-            "hp":355.2,
-            "kW": 280.2,
-            "topSpeed": 320,
-            "acceleration": 4.1,
-            "fuelType": "Petrol",
-            "fuelConsumption": 10.7,
-            "doors":2,
-            "transmission": "Automatic",
-            "drive": "Front wheel drive",
-            "weight": 1750,
-            "images": [
-
-            ]
-        },
-        {
-            "id":2,
-            "year":2017,
-            "hp":355.2,
-            "kW": 280.2,
-            "topSpeed": 320,
-            "acceleration": 4.1,
-            "fuelType": "Petrol",
-            "fuelConsumption": 10.7,
-            "doors":2,
-            "transmission": "Automatic",
-            "drive": "Front wheel drive",
-            "weight": 1750,
-            "images": [
-
-            ]
-        }
-    ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
+}
