@@ -27,6 +27,34 @@
     "transmission": "8-speed automatic",
     "drive": "RWD",
     "weight": 2560
+},
+    {
+    "id": 3,
+    "year": 2023,
+    "hp": 640.0,
+    "kW": 477.0,
+    "topSpeed": 205,
+    "acceleration": 2.6,
+    "fuelConsumption": 11.1,
+    "fuelType": "Gasoline",
+    "doors": 2,
+    "transmission": "8-speed dual-clutch automatic",
+    "drive": "AWD",
+    "weight": 1640
+},
+    {
+    "id": 4,
+    "year": 2023,
+    "hp": 769.0,
+    "kW": 574.0,
+    "topSpeed": 221,
+    "acceleration": 2.8,
+    "fuelConsumption": 16.9,
+    "fuelType": "Gasoline",
+    "doors": 2,
+    "transmission": "7-speed automated manual",
+    "drive": "AWD",
+    "weight": 1550
 }
   ],
   "profile": {
