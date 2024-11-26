@@ -1,20 +1,13 @@
 {
-  "cars": [
-        {
-            "id": 0,
-            "year": 2023,
-            "hp": 986.0,
-            "kW": 735.0,
-            "topSpeed": 211,
-            "acceleration": 2.5,
-            "fuelConsumption": 6.1,
-            "fuelType": "Hybrid",
-            "doors": 2,
-            "transmission": "8-speed dual-clutch automatic",
-            "drive": "AWD",
-            "weight": 1570
-        }
-    ],
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
   "profile": {
     "name": "Majcry"
   }
