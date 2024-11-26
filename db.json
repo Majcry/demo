@@ -13,7 +13,21 @@
           "transmission": "8-speed dual-clutch automatic",
           "drive": "AWD",
           "weight": 1570
-      }
+      },
+    {
+    "id": 1,
+    "year": 2023,
+    "hp": 563.0,
+    "kW": 420.0,
+    "topSpeed": 155,
+    "acceleration": 5.1,
+    "fuelConsumption": 14.8,
+    "fuelType": "Gasoline",
+    "doors": 4,
+    "transmission": "8-speed automatic",
+    "drive": "RWD",
+    "weight": 2560
+}
   ],
   "profile": {
     "name": "Majcry"
