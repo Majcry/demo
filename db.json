@@ -83,6 +83,20 @@
     "transmission": "7-speed dual-clutch automatic",
     "drive": "AWD",
     "weight": 1650
+},
+    {
+    "id": 6,
+    "year": 2016,
+    "hp": 416.0,
+    "kW": 310.0,
+    "topSpeed": 130,
+    "acceleration": 5.8,
+    "fuelConsumption": 13.8,
+    "fuelType": "Gasoline",
+    "doors": 5,
+    "transmission": "7-speed automatic",
+    "drive": "AWD",
+    "weight": 2585
 }
   ],
   "profile": {
