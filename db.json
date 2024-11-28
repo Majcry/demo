@@ -69,6 +69,20 @@
     "transmission": "7-speed dual-clutch automatic",
     "drive": "RWD",
     "weight": 1585
+},
+    {
+    "id": 5,
+    "year": 2019,
+    "hp": 602.0,
+    "kW": 449.0,
+    "topSpeed": 205,
+    "acceleration": 3.4,
+    "fuelConsumption": 13.1,
+    "fuelType": "Gasoline",
+    "doors": 2,
+    "transmission": "7-speed dual-clutch automatic",
+    "drive": "AWD",
+    "weight": 1650
 }
   ],
   "profile": {
