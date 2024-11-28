@@ -55,6 +55,20 @@
     "transmission": "7-speed automated manual",
     "drive": "AWD",
     "weight": 1550
+},
+    {
+    "id": 4,
+    "year": 2017,
+    "hp": 444.0,
+    "kW": 331.0,
+    "topSpeed": 155,
+    "acceleration": 4.0,
+    "fuelConsumption": 8.8,
+    "fuelType": "Gasoline",
+    "doors": 2,
+    "transmission": "7-speed dual-clutch automatic",
+    "drive": "RWD",
+    "weight": 1585
 }
   ],
   "profile": {
